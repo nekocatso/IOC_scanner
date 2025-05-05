@@ -1,0 +1,11 @@
+Version History Logs -> Installation Type : NanoShield Edition 
+
+UPDATE STATUS FOR - https://github.com/Neo23x0/signature-base.git 
+074616733542f4479a3485b5068426a63333d0f5	refs/heads/master
+
+UPDATE STATUS FOR - https://github.com/reversinglabs/reversinglabs-yara-rules (No Master or Main Branch Found) 
+d8f40bbab4baaa32894019b43236afe5d9109140	refs/heads/develop
+
+UPDATE STATUS FOR - https://github.com/airbnb/binaryalert 
+a9c0f06affc35e1f8e45bb77f835b92350c68a0b	refs/heads/master
+
